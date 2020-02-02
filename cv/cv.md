@@ -1,4 +1,4 @@
-#My Resume
+# My Resume
 
 #### Dmitry Novikov
 * Contacts
@@ -6,7 +6,7 @@
     * __Discord__: skr#2590
     * __E-mail__: kromez12@gmail.com
 
-##Summary
+## Summary
 My goals are pretty boring, when I was a kid
 I really enjoyed being around my PC, play games,
 watch cartoons, just talk to people through internet.
@@ -18,3 +18,18 @@ understanding all sort of things in programming so I stopped.
 
 But during last summer I decided to give it another try, and here I am trying get myself into
 Web-Development.
+
+
+## Skills
+I've been learning __JavaScript__ for about 6 months,
+after that I started digging into frameworks and learnt about __React__ and __Redux__
+Also before learning __JS__ I started to learn __HTML__ and __CSS__
+and combined it with __BEM__ methodology.
+
+## Code Examples
+ __Twitter__ made with __React__, __Redux__, __Axios__ and
+__Styled Components__.
+* https://github.com/skromez/twitter
+     
+__Dayaxe__ - simple landing page with some vanilla JS.
+* https://github.com/skromez/dayaxe
