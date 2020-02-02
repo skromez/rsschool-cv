@@ -27,9 +27,7 @@ Also before learning __JS__ I started to learn __HTML__ and __CSS__
 and combined it with __BEM__ methodology.
 
 ## Code Examples
- __Twitter__ made with __React__, __Redux__, __Axios__ and
-__Styled Components__.
-* https://github.com/skromez/twitter
-     
-__Dayaxe__ - simple landing page with some vanilla JS.
-* https://github.com/skromez/dayaxe
+
+[Twitter](https://github.com/skromez/twitter) - made with __React__, __Redux__, __Axios__ and
+__Styled Components__.  
+[Dayaxe](https://github.com/skromez/dayaxe) - simple landing page with some vanilla JS.
