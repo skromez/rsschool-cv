@@ -27,9 +27,20 @@ Also before learning __JS__ I started to learn __HTML__ and __CSS__
 and combined it with __BEM__ methodology.
 
 ## Code Examples
- __Twitter__ made with __React__, __Redux__, __Axios__ and
-__Styled Components__.
-* https://github.com/skromez/twitter
-     
-__Dayaxe__ - simple landing page with some vanilla JS.
-* https://github.com/skromez/dayaxe
+
+[Twitter](https://github.com/skromez/twitter) - made with __React__, __Redux__, __Axios__ and
+__Styled Components__.  
+
+[Dayaxe](https://github.com/skromez/dayaxe) - simple landing page with some vanilla JS.
+
+##Experience
+Currently I'm an __Intern JavaScript Developer__, doing my Internship in IT Company called __We//Yes__
+It's already 4th month of my internship, so I've made some projects and I listed them above in __Code Example__ section.
+Before that I finished __Web-Development__ course on [Codecademy](https://codecademy.com)
+
+##Education
+Right now im on 4th grade in college, and my major is __Computer Science.__
+
+##English
+I learnt english from playing and watching movies, I'd say my english level is between B1 and B2.
+I've been practicing talking english with my english-speaking friends when we were playing games for about 1 year.
